@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { mockPicks } from '@/lib/mock-data';
 import SportBadge from '@/components/shared/SportBadge';
 import { OddsDisplay } from '@/components/shared/OddsDisplay';
 import { ArrowRight, Star, TrendingUp, TrendingDown, Minus } from 'lucide-react';
