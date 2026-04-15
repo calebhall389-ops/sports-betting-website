@@ -7,8 +7,10 @@ import Footer from '@/components/layout/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'SharpEdge – Sports Betting Tools & Analytics',
-  description: 'Professional sports betting tools — live odds comparison, player props with edge scores, expert picks, and bet tracking analytics.',
+  texport const metadata = {
+  title: "SharpEdge | Odds, Props, Picks, and Bet Tracking",
+  description:
+    "Compare sportsbook odds, track player props, follow picks, and manage your betting history.",
 };
 
 export default function RootLayout({
