@@ -1,4 +1,3 @@
-import { mockPricingPlans } from '@/lib/mock-data';
 import { Check, Zap, Shield, TrendingUp } from 'lucide-react';
 
 const faqs = [
