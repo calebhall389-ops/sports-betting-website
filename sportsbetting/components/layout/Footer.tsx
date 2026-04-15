@@ -2,7 +2,12 @@ import Link from 'next/link';
 import { TrendingUp } from 'lucide-react';
 
 export default function Footer() {
-  return (
+  return (  
+    <p className="text-xs text-gray-500 max-w-3xl">
+  SharpEdge provides betting information, odds comparison, and analysis tools
+  for informational purposes only. We do not accept wagers or operate as a sportsbook.
+  Please gamble responsibly and follow the laws in your state.
+</p>
     <footer className="border-t border-surface-border bg-surface-dark mt-auto">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-10">
