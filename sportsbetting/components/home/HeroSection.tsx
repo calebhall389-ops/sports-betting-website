@@ -2,10 +2,9 @@ import Link from 'next/link';
 import { ArrowRight, ChartBar as BarChart2, Shield, Zap } from 'lucide-react';
 
 const stats = [
-  { label: 'Active Users', value: '180K+' },
-  { label: 'Sportsbooks Tracked', value: '15+' },
-  { label: 'Daily Props', value: '2,400+' },
-  { label: 'Win Rate (Last 90d)', value: '56.2%' },
+  { label: "Sports Covered", value: "4+" },
+  { label: "Markets Tracked", value: "Odds, Props, Picks" },
+  { label: "Updated", value: "Daily" },
 ];
 
 const features = [
