@@ -65,7 +65,7 @@ export default function Footer() {
 
         <div className="border-t border-surface-border pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-slate-600">
-            © 2025 SharpEdge. All rights reserved. Must be 21+ to gamble. Please bet responsibly.
+            © 2026 SharpEdge. All rights reserved. Must be 21+ to gamble. Please bet responsibly.
           </p>
           <p className="text-xs text-slate-600">
             Gambling problem? Call 1-800-GAMBLER
